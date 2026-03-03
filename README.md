@@ -1,1 +1,7 @@
-# 26-tavasz-03-z-power
+# Z-Power
+
+## Csapattagok:
+
+- Perjési Fanni - perjesifanni
+- Jakab Ács Eszter - jakabacseszter
+- Tóth Áron Pál - arrora09
