@@ -20,6 +20,14 @@ export default defineConfig({
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
+				{
+					label:"Architektura",
+					autogenerate: { directory: 'architecture' },
+				},
+				{
+					label:"Architekturális döntési jegyzőkönyv",
+					autogenerate: { directory: 'adrs' },
+				}
 			],
 		}),
 	],
