@@ -34,7 +34,7 @@ A Z-Power adatbefogadó részének architekturális karakterisztikáihoz (megbí
 Nem szabad elfelejteni azonban az alábbiakat:
 
 - Magasabb infrastruktúra-költség és üzemeltetési komplexitás, utóbbi hosszabb távon meghatározó szempont, mivel a rendszert hosszú évekig kell majd üzemeltetni.
-- Tesztelhetőségi és karbantarthatósági aggályok, mivel az ASW-n ezek kevés csillagocskát kaptak hehe :)
+- Tesztelhetőségi és karbantarthatósági aggályok, mivel az ASW-n ezek kevés csillagocskát kaptak
 - Nem garantált, hogy az események feldolgozási sorrendje megegyezik a beküldési sorrenddel - ez az idősor-alapú termelési adatoknál torzulást okozhat.
 - A termelők sémáinak változásakor az összes érintett fogyasztót frissíteni kell, ami a rendszer bővülésével egyre nehezebben kezelhető karbantartási feladatot jelent.
 
