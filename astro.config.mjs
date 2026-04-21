@@ -8,7 +8,7 @@ import react from '@astrojs/react';
 export default defineConfig({
 	// ez csak a nagy gitre
 	site:"https://unideb-advanced-software-engineering.github.io",
-	base:"/26-tavasz-03-zpower/",
+	base:"/26-tavasz-03-z-power/",
 	vite:{
 		plugins: [
      		LikeC4VitePlugin({}),
