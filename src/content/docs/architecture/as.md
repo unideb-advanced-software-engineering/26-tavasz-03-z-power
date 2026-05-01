@@ -54,7 +54,7 @@ A Z-Power megjelenítő és analitikai részével kapcsolatban nem az adatveszt�
 - rugalmas bővíthetőség (plugineken keresztül),
 - tesztelhetőség.
 
-E minőségi jellemzőket nagyszerűen kielégíti a Microkernel architektúra, amelyben az egyes funkciók természetesen leképezhetők pluginekre (dashboard, előrejelzési modul, publikus adatexport). Így például az előrejelzési modul — saját külső API-függőségével és modellverzió-kezelésével — nem nő össze a többi komponenssel.
+E minőségi jellemzőket nagyszerűen kielégíti a Microkernel architektúra, amelyben az egyes funkciók természetesen leképezhetők pluginekre (dashboard, előrejelzési modul, publikus adatexport). Így például az előrejelzési modul - saját külső API-függőségével és modellverzió-kezelésével - nem nő össze a többi komponenssel.
 
 ### Kompromisszumok
 
