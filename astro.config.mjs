@@ -38,6 +38,11 @@ export default defineConfig({
                 collapsed: false
             },
             {
+                label:"Esettanulmány",
+                autogenerate: { directory: 'project' },
+                collapsed: false
+            },
+            {
                 label:"SRS",
                 autogenerate: { directory: 'srs' },
                 collapsed: true
