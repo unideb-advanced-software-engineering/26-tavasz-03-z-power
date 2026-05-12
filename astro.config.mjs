@@ -37,10 +37,10 @@ export default defineConfig({
                 autogenerate: { directory: 'project' },
                 collapsed: false
             },
-            {
-                label:"Esettanulmány",
-                autogenerate: { directory: 'project' },
-                collapsed: false
+             {
+                label: "Prezentáció",
+                autogenerate: { directory: 'presentation' },
+                collapsed: true
             },
             {
                 label:"SRS",
